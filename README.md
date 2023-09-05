@@ -1,7 +1,7 @@
 # MLOPs_Task02
 Bismillah Traders on the go!
 
-[![Python application](https://github.com/hammadmajeed/ci_cd_demo/actions/workflows/python-app.yml/badge.svg)](https://github.com/hammadmajeed/ci_cd_demo/actions/workflows/python-app.yml)
+[![Python application](https://github.com/HighNCode/MLOPs_Task02/actions/workflows/python-app.yml/badge.svg)](https://github.com/HighNCode/MLOPs_Task02/actions/workflows/python-app.yml)
 
 Scaffolding
 
